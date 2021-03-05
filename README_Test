@@ -1,0 +1,5 @@
+Para efetuar o login:
+	- campo user: aceita somente CPF validos ou em formato email ("a@a.com", por exemplo)
+	- Mudar a func isValidUser para false e usar o usuário padrão (test_user/Test@1)
+
+	- campo senha: necessariamente precisa possuir um numero, um caracter especial e uma letra maiúscula para ser uma senha valida

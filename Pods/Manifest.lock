@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.0.0-beta.6)
+  - CPF-CNPJ-Validator (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-beta.5)
+  - CPF-CNPJ-Validator
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CPF-CNPJ-Validator
+
+SPEC CHECKSUMS:
+  Alamofire: cd08a4402bd12cacd0c66f23fb12fec8d6b965e4
+  CPF-CNPJ-Validator: 0b08069595da2c4b20e964b743bfc0a7334d5347
+
+PODFILE CHECKSUM: 34230ed969c92c98cf50ba942a2ec5d9ddf772ab
+
+COCOAPODS: 1.10.1
